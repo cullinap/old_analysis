@@ -1,0 +1,11 @@
+config.py
+__pycache__
+*.ipynb_checkpoints
+*.DS_Store
+*.csv
+*.pdf
+*.txt
+*.json
+*.pkl
+*.bin
+
