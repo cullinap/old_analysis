@@ -1,0 +1,7 @@
+  
+*.csv
+.ipynb_checkpoints/
+*.png
+*.feather
+**/.DS_Store
+__pycache__/
